@@ -20,11 +20,13 @@ Jest Another RPG is an RPG that takes place in the terminal. It uses node.js and
 
 <a href = "#installation"></a>
 ## Installation
-Clone the repo to your machine and make sure you have installed node.js. Then download all necessary dependencies using the command ```npm install```.
+Clone the repo to your machine and make sure you have installed node.js. Then download all necessary dependencies using the command ```npm install``` from the root directory in your terminal ```./jest-another-RPG```.
 
 <a href = "#usage"></a>
 ## Usage
-To start the game run the command ```node app```. Then follow the prompts to play.
+To start the game, open your terminal and navigate to the root directory ```./jest-another-RPG```. Then run the command ```node app```.
+
+Name your charector and follow the prompts choosing to attack or use potions as you see fit.
 
 <a href = "#credits"></a>
 ## Credits
