@@ -39,6 +39,7 @@ Name your character and follow the prompts choosing to attack or use potions as 
 ## Credits
 - [matt-gross-27](https://github.com/matt-gross-27)
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js/)
+- Artwork from https://ascii.co.uk/art
 
 
 <a href = "#license"></a>
